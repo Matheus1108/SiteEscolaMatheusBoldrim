@@ -83,3 +83,12 @@ body {
     padding: 12px 0;
    
 }
+
+.Copo{
+    width: 150px;
+    height: 150px;
+    background-image:url(Copo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:none;
+}
